@@ -1,0 +1,52 @@
+
+.d1
+{
+    position: absolute;
+    right: 732px;
+    top: 30px;
+    text-align: center;
+}
+.d2
+{
+    position: absolute;
+    right: 600px;
+    top: 0px;
+    text-align: center;
+    color: white;
+}
+.para1
+{
+    position: absolute;
+    top: 60px;
+    left: 490px;
+}
+.ta1
+{
+    position: absolute;
+    top: 75px;
+    left: 600px;
+}
+.d4
+{
+    position: absolute;
+    top:100px;
+    right: 600px;
+}
+.d5
+{
+    background-color: white;
+    position: absolute;
+    top: 600px;
+    width: 60px;
+}
+.d7
+{
+    position: absolute;
+    top: 800px;
+}
+.d8
+{
+    position: absolute;
+    top:60px;
+    width: 1300px;
+}
