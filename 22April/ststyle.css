@@ -1,0 +1,19 @@
+body
+{
+    background:url(./logo.png) no-repeat center;
+    background-size: cover;
+}
+.hd1
+{
+    font-family: 'Yeseva One', cursive;
+    text-align: center;
+}
+.d1,.d2,.d3,.d4,.d5,.d6,.d7,.d8
+{
+    border: 5px solid black;
+}
+p
+{
+ font-size: 20px;
+ font-style: italic;
+}
