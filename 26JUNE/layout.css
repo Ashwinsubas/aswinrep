@@ -1,0 +1,36 @@
+.d1,.d2
+{
+    background-color: black;
+    color: white;
+}
+.p1
+{
+    background-color: rgb(89, 114, 88);
+}
+
+.p2
+{
+    background-color: aqua;
+}
+.p3
+{
+    background-color: aqua;
+}
+.d5
+{
+    height: 35px;
+    background-color: aqua;
+}
+.d4
+{
+    height: 35px;
+    background-color: aqua;
+}
+.d6
+{
+    background-color: aqua;
+}
+.d7,.d8
+{
+    background-color: yellowgreen;
+}
